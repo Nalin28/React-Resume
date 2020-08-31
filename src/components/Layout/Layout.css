@@ -1,0 +1,12 @@
+.CustomPane {
+  align-items: center;
+  color: black;
+}
+
+.Layout {
+  background: #002366;
+}
+
+:root {
+  background: #002366;
+}
