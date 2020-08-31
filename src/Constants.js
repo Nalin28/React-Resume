@@ -89,14 +89,14 @@ export const EducationObject = [
     `
   },
   {
-    date: "APR 2009 - APR 2011",
+    date: "APR 2013 - APR 2015",
     role: "12th",
     college: "CMS Gomti Nagar, Lucknow",
     desc: `
       96% PCMC aggregate.`
   },
   {
-    date: "APR 2009 - APR 2011",
+    date: "APR 2004 - APR 2013",
     role: "10th",
     college: "St Francis' College, Lucknow",
     desc: `
