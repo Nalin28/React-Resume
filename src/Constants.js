@@ -177,7 +177,7 @@ export const GithubProjects = [
     languages: "Java"
   },
   {
-    projectLink: "<to be done>",
+    projectLink: "https://github.com/Nalin28/React-Resume",
     projectName: "React Responsive Resume Template",
     languages: "Javascript"
   }
