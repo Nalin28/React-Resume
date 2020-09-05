@@ -2,6 +2,7 @@ import React from "react";
 import { Row, Col } from "reactstrap";
 import * as Constants from "../../Constants";
 import "./About.css";
+import Scrollbar from "react-scrollbar";
 
 const about = () => {
   const renderAboutFromObj = obj => {
@@ -29,7 +30,9 @@ const about = () => {
 
   return (
     <div className="About">
-      {Constants.AboutLinksObj.map(x => renderAboutFromObj(x))}
+      <Scrollbar>
+        {Constants.AboutLinksObj.map(x => renderAboutFromObj(x))}
+      </Scrollbar>
     </div>
   );
 };
