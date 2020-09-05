@@ -2,20 +2,8 @@ import React from "react";
 import { Row, Col } from "reactstrap";
 import * as Constants from "../../Constants";
 import "./About.css";
-import styled from "styled-components";
 
 const about = () => {
-  const Abo = styled.div`
-    @media only screen and (min-width: 768px) {
-      width: 75%;
-    }
-
-    /* Medium Devices, Desktops */
-    @media only screen and (min-width: 992px) {
-      width: 50%;
-    }
-  `;
-
   const renderAboutFromObj = obj => {
     return (
       <Row>
@@ -41,7 +29,7 @@ const about = () => {
 
   return (
     <div className="About">
-      <Abo>{Constants.AboutLinksObj.map(x => renderAboutFromObj(x))}</Abo>
+      {Constants.AboutLinksObj.map(x => renderAboutFromObj(x))}
     </div>
   );
 };
