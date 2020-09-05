@@ -19,7 +19,7 @@ const research = () => {
 
   return (
     <div className="Research">
-      <Table bordered>
+      <Table bordered responsive>
         <thead>
           <tr>
             <td>Name</td>

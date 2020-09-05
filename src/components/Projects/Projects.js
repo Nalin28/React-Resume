@@ -37,7 +37,7 @@ const projects = () => {
 
   return (
     <div className="githubProjects">
-      <Table bordered>
+      <Table bordered responsive>
         <thead>
           <tr>
             <td>Name</td>
