@@ -7,7 +7,7 @@ const personalInfo = obj => {
     <div className="PersonalInfo">
       <h2>{Constants.Name}</h2>
       <br />
-      <p>Call: {Constants.Name}</p>
+      <p>Call: {Constants.PhoneNumber}</p>
       <p>Mail: {Constants.EmailAddress}</p>
       <p>Home: {Constants.Home}</p>
     </div>

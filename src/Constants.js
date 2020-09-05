@@ -44,7 +44,7 @@ export const Tech = [
 ];
 
 export const Name = "NALIN MUNSHI";
-export const PhoneNumber = "+919003771986";
+export const PhoneNumber = "+91 9003771986";
 export const EmailAddress = "nalinmunshi@gmail.com";
 export const Home = "Bengaluru";
 // • Coding Platforms: HackerEarth, HackerRank, CodeChef, TopCoder, Github.
