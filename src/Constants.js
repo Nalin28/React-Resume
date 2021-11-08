@@ -1,6 +1,7 @@
 export const ProgrammingSkills = [
   { language: "Scala", progress: "90" },
   { language: "Java", progress: "85" },
+  {language: "Go", progress: "80"},
   { language: "JavaScript", progress: "80" }
 ];
 
@@ -39,21 +40,44 @@ export const Tech = [
   "ELK Stack",
   "Kubernetes",
   "Apache Kafka",
+  "Knative",
   "Cloud Foundry",
   "Jenkins Pipeline"
 ];
 
 export const Name = "NALIN MUNSHI";
-export const PhoneNumber = "+91 9003771986";
+export const PhoneNumber = "+1 7785220495";
 export const EmailAddress = "nalinmunshi@gmail.com";
-export const Home = "Bengaluru";
+export const Home = "Vancouver, BC";
 // • Coding Platforms: HackerEarth, HackerRank, CodeChef, TopCoder, Github.
 
 //Experience
 export const ExperienceObject = [
   {
+    company: "CIRRUS Lab, UBC",
+    date: "SEPTEMBER 2021 – Present",
+    role: "RESEARCH ASSISTANT",
+    imageSrc:
+      "https://https://ubc-cirrus-lab.github.io/images/cirrus_logo.png",
+    desc: `
+    Part of Cloud Infrastructure Research for Reliability, Usability, and Scalability (CIRRUS) Lab. 
+    Working in collaboration with IBM Cloud Code Engine team on adaptive lifetime management for Knative-based serverless systems.
+      `
+  },
+  {
     company: "Cisco Systems, Bengaluru",
-    date: "JULY 2019 – Present",
+    date: "MAY 2021 – AUGUST 2021",
+    role: "SDE 2",
+    imageSrc:
+      "https://media.licdn.com/dms/image/C4D0BAQHO_cO49I_FRA/company-logo_400_400/0?e=2130710400&v=beta&t=WaC9soho4B3A5-LULY9WiSAGkJ0HdBKmyU74N3VGBF8",
+    desc: `
+    Part of a R&D team involved in the development of scalable microservices along with testing end to end functionality. 
+    Ran exhaustive integration tests for multiple microservices in collaboration with other development teams.
+      `
+  },
+  {
+    company: "Cisco Systems, Bengaluru",
+    date: "JULY 2019 – MAY 2021",
     role: "SDE 1",
     imageSrc:
       "https://media.licdn.com/dms/image/C4D0BAQHO_cO49I_FRA/company-logo_400_400/0?e=2130710400&v=beta&t=WaC9soho4B3A5-LULY9WiSAGkJ0HdBKmyU74N3VGBF8",
@@ -80,6 +104,14 @@ export const ExperienceObject = [
 // Education
 
 export const EducationObject = [
+  {
+    date: "SEPTEMBER 2021 - Present",
+    role: "Master of Applied Scaience",
+    college: "University of British Columbia",
+    desc: `
+    Part of CIRRUS Lab under Dr. Mohammad Shahrad.
+    `
+  },
   {
     date: "JULY 2015 - AUGUST 2019",
     role: "Bachelor of Technology",
