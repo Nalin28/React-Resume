@@ -58,7 +58,7 @@ export const ExperienceObject = [
     date: "SEPTEMBER 2021 – Present",
     role: "RESEARCH ASSISTANT",
     imageSrc:
-      "https://https://ubc-cirrus-lab.github.io/images/cirrus_logo.png",
+      "https://media-exp1.licdn.com/dms/image/C4E0BAQH415qlDBkj8Q/company-logo_200_200/0/1568742934345?e=1644451200&v=beta&t=UmLDiPpuNfOkgM2lNDWhYvaMIHJVudDHVMD0n7VH3JU",
     desc: `
     Part of Cloud Infrastructure Research for Reliability, Usability, and Scalability (CIRRUS) Lab. 
     Working in collaboration with IBM Cloud Code Engine team on adaptive lifetime management for Knative-based serverless systems.
