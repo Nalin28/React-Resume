@@ -2,7 +2,7 @@ export const ProgrammingSkills = [
   { language: "Scala", progress: "90" },
   { language: "Java", progress: "85" },
   {language: "Go", progress: "80"},
-  { language: "JavaScript", progress: "80" }
+  { language: "Python", progress: "80" }
 ];
 
 export const MarkUpSkills = [
@@ -109,7 +109,7 @@ export const EducationObject = [
     role: "Master of Applied Scaience",
     college: "University of British Columbia",
     desc: `
-    Part of CIRRUS Lab under Dr. Mohammad Shahrad.
+    Part of CIRRUS Lab led by Dr. Mohammad Shahrad.
     `
   },
   {
@@ -177,7 +177,7 @@ export const AboutLinksObj = [
   },
   {
     name: "LinkedIn",
-    profileLink: "https://www.linkedin.com/in/nalin-munshi-03bb56104/",
+    profileLink: "https://www.linkedin.com/in/nalin-munshi/",
     icon:
       "https://uploads.codesandbox.io/uploads/user/5ae29b72-3c9d-4baf-b5fb-0e0329688dc0/GbB5-LK.ico"
   },
