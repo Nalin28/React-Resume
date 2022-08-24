@@ -1,6 +1,6 @@
 export const ProgrammingSkills = [
   { language: "Scala", progress: "90" },
-  { language: "Java", progress: "85" },
+  { language: "Java", progress: "90" },
   {language: "Go", progress: "80"},
   { language: "Python", progress: "80" }
 ];
