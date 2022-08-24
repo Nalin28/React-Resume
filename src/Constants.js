@@ -46,7 +46,7 @@ export const Tech = [
 ];
 
 export const Name = "NALIN MUNSHI";
-export const PhoneNumber = "+1 **********";
+export const PhoneNumber = "+1 7785220495";
 export const EmailAddress = "nalinmunshi@gmail.com";
 export const Home = "Vancouver, BC";
 // • Coding Platforms: HackerEarth, HackerRank, CodeChef, TopCoder, Github.
@@ -58,7 +58,7 @@ export const ExperienceObject = [
     date: "SEPTEMBER 2021 – Present",
     role: "RESEARCH ASSISTANT",
     imageSrc:
-      "https://media-exp1.licdn.com/dms/image/C4E0BAQH415qlDBkj8Q/company-logo_200_200/0/1568742934345?e=1644451200&v=beta&t=UmLDiPpuNfOkgM2lNDWhYvaMIHJVudDHVMD0n7VH3JU",
+      "https://cirrus.ece.ubc.ca/images/cirrus_logo.png",
     desc: `
     Part of Cloud Infrastructure Research for Reliability, Usability, and Scalability (CIRRUS) Lab. 
     Working in collaboration with IBM Cloud Code Engine team on adaptive lifetime management for Knative-based serverless systems.
@@ -93,7 +93,7 @@ export const ExperienceObject = [
     date: "JAN 2019 - JUNE 2019",
     role: "INTERN",
     imageSrc:
-    "https://cirrus.ece.ubc.ca/images/cirrus_logo.png",
+      "https://media.licdn.com/dms/image/C4D0BAQHO_cO49I_FRA/company-logo_400_400/0?e=2130710400&v=beta&t=WaC9soho4B3A5-LULY9WiSAGkJ0HdBKmyU74N3VGBF8",
     desc: `
       Worked for Cisco CC-One and developed a common logging architecture for the CC-One micro-services by tagging the logs
       with a tracking id to provide end-to-end tracking of logs across services.
