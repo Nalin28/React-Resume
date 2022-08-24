@@ -93,7 +93,7 @@ export const ExperienceObject = [
     date: "JAN 2019 - JUNE 2019",
     role: "INTERN",
     imageSrc:
-      "https://media.licdn.com/dms/image/C4D0BAQHO_cO49I_FRA/company-logo_400_400/0?e=2130710400&v=beta&t=WaC9soho4B3A5-LULY9WiSAGkJ0HdBKmyU74N3VGBF8",
+    "https://cirrus.ece.ubc.ca/images/cirrus_logo.png",
     desc: `
       Worked for Cisco CC-One and developed a common logging architecture for the CC-One micro-services by tagging the logs
       with a tracking id to provide end-to-end tracking of logs across services.
