@@ -46,8 +46,8 @@ export const Tech = [
 ];
 
 export const Name = "NALIN MUNSHI";
-export const PhoneNumber = "+1 7785220495";
-export const EmailAddress = "nalinmunshi@gmail.com";
+export const PhoneNumber = "+1 **********";
+export const EmailAddress = "nalinmunshi [at_the_rate_of] gmail [dot] com";
 export const Home = "Vancouver, BC";
 // • Coding Platforms: HackerEarth, HackerRank, CodeChef, TopCoder, Github.
 
@@ -58,7 +58,7 @@ export const ExperienceObject = [
     date: "SEPTEMBER 2021 – Present",
     role: "RESEARCH ASSISTANT",
     imageSrc:
-      "https://cirrus.ece.ubc.ca/images/cirrus_logo.png",
+      "https://media-exp1.licdn.com/dms/image/D562DAQGOVd8sIubSJg/profile-treasury-image-shrink_160_160/0/1661298075095?e=1661907600&v=beta&t=WUs25TY5IrmBD7c_3W1w2Zgc0TjhHVNJ6CdZ_4kX09U",
     desc: `
     Part of Cloud Infrastructure Research for Reliability, Usability, and Scalability (CIRRUS) Lab. 
     Working in collaboration with IBM Cloud Code Engine team on adaptive lifetime management for Knative-based serverless systems.
