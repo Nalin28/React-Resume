@@ -42,7 +42,7 @@ export const Tech = [
   "Apache Kafka",
   "Knative",
   "Cloud Foundry",
-  "Jenkins Pipeline"
+  "Jenkins"
 ];
 
 export const Name = "NALIN MUNSHI";
